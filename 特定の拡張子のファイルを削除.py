@@ -1,9 +1,8 @@
 import os
 import sys
-
 from pathlib import Path
+
 print(sys.version)
-#print(sys.version_info)
 print(os.getcwd())
 
 #import glob
