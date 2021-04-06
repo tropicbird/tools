@@ -1,0 +1,2 @@
+#jupyterlabで見出しを表示する。
+jupyter labextension install @jupyterlab/toc
