@@ -1,0 +1,5 @@
+#ソース
+https://itips.krsw.biz/gsutil-argument-list-too-long-error-reason-why/
+
+#gsutilで"argument list too long"エラーを回避する方法⇒ワイルドカードの引数を""で囲む
+gsutil -m cp "*.tif" gs://XXXXXXX/
